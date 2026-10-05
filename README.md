@@ -1,12 +1,14 @@
-### SMF.Asra - 23DA2-0826
+## Individual Contributions
 
-Assigned responsibility: Stack and Queue implementation.
+### MSM.Dilsath - 23DA2-0576
 
-Files:
+Assigned responsibility: Linked List implementation.
 
-- `src/stack_queue/StackManager.java`
-- `src/stack_queue/QueueManager.java`
+File:
 
-Assigned contribution: Maintain the array-backed LIFO stack and circular FIFO
-queue. Explain push/pop/peek, enqueue/dequeue/front, display, empty-operation
-handling, wraparound, and manual capacity growth.
+- `src/linked_list/LinkedListManager.java`
+
+Assigned contribution: Maintain the singly linked list and its private Node
+class. Explain insertion at the end, first-match deletion at the head, middle,
+or end, sequential search, display, and empty-list handling.
+
