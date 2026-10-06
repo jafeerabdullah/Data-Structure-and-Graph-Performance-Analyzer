@@ -1,14 +1,12 @@
-## Individual Contributions
+### MTF.Nifra - 23DA2-0729
 
-### MSM.Dilsath - 23DA2-0576
+Assigned responsibility: Graph implementation and traversal.
 
-Assigned responsibility: Linked List implementation.
+Files:
 
-File:
+- `src/graph_traversal/Graph.java`
+- `src/graph_traversal/TraversalResult.java`
 
-- `src/linked_list/LinkedListManager.java`
-
-Assigned contribution: Maintain the singly linked list and its private Node
-class. Explain insertion at the end, first-match deletion at the head, middle,
-or end, sequential search, display, and empty-list handling.
-
+Assigned contribution: Maintain the undirected adjacency-list graph, vertex and
+edge validation, duplicate prevention, graph display, BFS, iterative DFS, and
+traversal performance results.
